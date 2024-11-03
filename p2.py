@@ -1,4 +1,4 @@
-# problem 4
+# find the product of all proper factors of a number
 def product(x): #we create this function to find the proper factors of a number and their product
     if x==0: #particular case
         return 0
