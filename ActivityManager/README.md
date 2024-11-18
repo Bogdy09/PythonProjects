@@ -1,1 +1,1 @@
-
+A complex program that manages people and their activities. The program can add, remove, update and display both people and activities. Also the program can search for people and activities and create statistics. The program also works with both text and binary files and has a cascade undo and redo operation.
