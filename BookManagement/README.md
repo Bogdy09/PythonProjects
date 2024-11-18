@@ -1,1 +1,1 @@
-
+A program that manages a book store, having as options adding removing, filtering and displaying books. Also, the program has an undo operation and has the ability to work with both text and binary files.
