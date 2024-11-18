@@ -1,0 +1,5 @@
+01, Single Room
+02, Double Room
+03, Family Room
+04, Single Room
+05, Double Room
